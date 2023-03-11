@@ -22,6 +22,14 @@
 
 - `Repository` access different `DataSources` in order to fetch or persist data locally or remotely.
 
+### Code distribution
+
+| Module | Lines of code |
+| ------ | ------------- |
+| shared | 509 |
+| androidApp | 265 |
+| iosApp | 229 |
+
 # Architecture concept
 
 --
