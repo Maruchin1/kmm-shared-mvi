@@ -30,7 +30,7 @@ import com.maruchin.kmm.sharedmvi.presentation.login.LoginUiState
 @Composable
 fun LoginScreen(onLoginSuccess: () -> Unit) {
     val sdk = getDemoSdk()
-    val viewModel = viewModel(initializer = { sdk.loginViewModel })
+    val viewModel = viewModel { sdk.loginViewModel }
     val state by viewModel.uiState.collectAsState()
     LoginScreen(state = state, onLogin = viewModel::login, onLoginSuccess = onLoginSuccess)
 }
