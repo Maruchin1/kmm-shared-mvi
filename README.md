@@ -1,6 +1,6 @@
 # KMM Shared MVI Architecture
 
-[![Master build](https://github.com/Maruchin1/kmm-shared-mvi/actions/workflows/master-build.yml/badge.svg)](https://github.com/Maruchin1/kmm-shared-mvi/actions/workflows/master-build.yml)
+[![CI](https://github.com/Maruchin1/kmm-shared-mvi/actions/workflows/ci-workflow.yml/badge.svg)](https://github.com/Maruchin1/kmm-shared-mvi/actions/workflows/ci-workflow.yml)
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/46427781/224491207-3978aad4-6306-407c-af00-fa25a2960ad7.png">
 
