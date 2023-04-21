@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/Maruchin1/kmm-shared-mvi/actions/workflows/ci-workflow.yml/badge.svg)](https://github.com/Maruchin1/kmm-shared-mvi/actions/workflows/ci-workflow.yml)
 
+[Checkout full Medium article](https://medium.com/@maruchin/kmm-architecture-3-shared-mvi-5bd0cddc6d55)
+
 <img align="right" width="400" src="https://user-images.githubusercontent.com/46427781/224491207-3978aad4-6306-407c-af00-fa25a2960ad7.png">
 
 ### androidApp (Native)
